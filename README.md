@@ -14,7 +14,7 @@ Que o download dos recursos e dependências necessárias serão feitas de forma 
 
 # informações
 
-Essa ferramenta e uma versão free (gratuita) disponíbilizada pela ProtegIT Corp e possui a licença MIT você pode modificar a vontade, so deixa os créditos se reupar, a versão atualizada é mais recente da ferramenta e paga.
+Essa ferramenta e uma versão free (gratuita) disponíbilizada pela ProtegIT Corp e possui a licença MIT você pode modificar a vontade, so deixa os créditos se reupar, a versão atualizada da ferramenta é paga.
 
 Obs: roda em distribuições linux e derivados incluindo desktop e mobile (termux e userland)
 
