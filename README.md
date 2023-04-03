@@ -4,7 +4,10 @@ Ferramenta de mineração de arquivos .pdf e .txt
 # instalação
 esta ferramenta já possui um arquivo de instalação das dependências automática
 basta executar os comandos a seguir:
-
+- apt update
+- apt install git
+- git clone https://github.com/ProtegITCorp/mineralpha
+- cd mineralpha
 - sudo bash setup.sh
 
 Que o download dos recursos e dependências necessárias serão feitas de forma totalmente automática.
