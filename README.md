@@ -20,4 +20,4 @@ Obs: roda em distribuições linux e derivados incluindo desktop e mobile (termu
 
 # objetivo
 
-Essa ferramenta tem o objetivo de baixar dados da internet, o famoso webscraping de diversos sites, baixando arquivos pdf's que são indexados pelo Google também e possível converter arquivos pdf em txt, para utilizar a ferramenta e extremamente recomendado usar dorks para ter uma precisão maior de mineração e não acabar baixar o código html da página como arquivos html,css,js,php e xml etc
+Essa ferramenta tem o objetivo de baixar dados da internet, o famoso webscraping de diversos sites, baixando arquivos pdf's que são indexados pelo Google também e possível converter arquivos pdf em txt, para utilizar a ferramenta e extremamente recomendado usar dorks para ter uma precisão maior de mineração e não acabar baixando códigos da página como arquivos html,css,js,php e xml etc
